@@ -1,0 +1,14 @@
+{
+    "name": "task-employee-recommendation-ui",
+    "version": "1.0.0",
+    "description": "Giao diện cho hệ thống gợi ý Task-Employee",
+    "main": "index.html",
+    "scripts": {
+      "start": "python -m http.server 3000",
+      "dev": "live-server --port=3000"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "live-server": "^1.2.2"
+    }
+  }
